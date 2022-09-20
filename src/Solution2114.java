@@ -8,7 +8,6 @@ public class Solution2114 {
     }
 
     public static int mostWordsFound(String[] sentences) {
-
         // loop through every item in the list
         // split each item into list and get the length
         // update the max size
